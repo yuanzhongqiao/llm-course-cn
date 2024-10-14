@@ -1,7 +1,7 @@
 <div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
   <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="59958743" _msthash="230">🗣️ 大型语言模型课程</h1><a id="user-content-️-large-language-model-course" class="anchor" aria-label="永久链接：🗣️大型语言模型课程" href="#️-large-language-model-course" _mstaria-label="42734380" _msthash="231"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
   <p align="center" dir="auto"><font _mstmutation="1" _msttexthash="174240833" _msthash="232">🐦 <a href="https://twitter.com/maximelabonne" rel="nofollow" _mstmutation="1" _istranslated="1">在 X 上关注我</a> •
- 🤗 <a href="https://huggingface.co/mlabonne" rel="nofollow" _mstmutation="1" _istranslated="1">抱脸</a> •
+ 🤗 <a href="https://huggingface.co/mlabonne" rel="nofollow" _mstmutation="1" _istranslated="1">HugingFace</a> •
  💻 <a href="https://mlabonne.github.io/blog" rel="nofollow" _mstmutation="1" _istranslated="1">博客</a> •
  📙 <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python" _mstmutation="1" _istranslated="1">动手 GNN</a></font>
   </p>
@@ -31,7 +31,7 @@
 </thead>
 <tbody>
 <tr>
-<td _msttexthash="25373621" _msthash="248">🧐 <a href="https://github.com/mlabonne/llm-autoeval" _istranslated="1">法学硕士 AutoEval</a></td>
+<td _msttexthash="25373621" _msthash="248">🧐 <a href="https://github.com/mlabonne/llm-autoeval" _istranslated="1">大语言模型LLM AutoEval</a></td>
 <td _msttexthash="42664375" _msthash="249">使用 RunPod 自动评估您的 LLM</td>
 <td><a href="https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing" rel="nofollow"><img src="/mlabonne/llm-course/raw/main/img/colab.svg" alt="在 Colab 中打开" style="max-width: 100%;" _mstalt="166972" _msthash="250"></a></td>
 </tr>
@@ -195,7 +195,7 @@
 <p dir="auto" _msttexthash="416383357" _msthash="345">本节介绍有关数学、Python 和神经网络的基本知识。您可能不想从这里开始，但需要参考它。</p>
 <details>
 <summary _msttexthash="10166689" _msthash="346">Toggle 部分</summary>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/mlabonne/llm-course/blob/main/img/roadmap_fundamentals.png"><img src="/mlabonne/llm-course/raw/main/img/roadmap_fundamentals.png" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mlabonne/llm-course/blob/main/img/roadmap_fundamentals.png"><img src="https://github.com/mlabonne/llm-course/raw/main/img/roadmap_fundamentals.png" alt="" style="max-width: 100%;"></a></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="21099611" _msthash="347">1. 机器学习数学</h3><a id="user-content-1-mathematics-for-machine-learning" class="anchor" aria-label="永久链接：1. 机器学习数学" href="#1-mathematics-for-machine-learning" _mstaria-label="1445847" _msthash="348"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto" _msttexthash="264887025" _msthash="349">在掌握机器学习之前，了解为这些算法提供动力的基本数学概念非常重要。</p>
 <ul dir="auto">
